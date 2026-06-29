@@ -6,13 +6,13 @@ Welcome to my Tableau repository! This space serves as a showcase for my interac
 
 ## Featured Dashboards
 
-### 1. [World population Dashboard]
+### 1. World population Dashboard
 * **Link to Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.atif5475/viz/Dashboard_17826471119140/BasicDashboard)
 * **Business Problem:** [e.g., Stakeholders lacked a unified view of regional profit margins and underperforming product sub-categories.]
 * **Key Metrics Tracked:** [e.g., MoM Revenue Growth, Net Profit Margin, Customer Acquisition Cost (CAC), Return Rate]
 * **Key Insights Uncovered:** [e.g., Identified that despite high sales volume in the Central region, high shipping costs resulted in a negative net margin of 4% for office furniture.]
 
-### 2. [Loan paydback]
+### 2. Loan paydback
 * **Link to Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.atif5475/viz/Dashboard_17826471119140/BasicDashboard)
 * **Business Problem:** [e.g., Marketing and Product teams needed to understand user retention decay across different acquisition quarters.]
 * **Advanced Techniques Used:** [e.g., Cohort Analysis, Level of Detail (LOD) Expressions, Dynamic Parameters for User-defined Thresholds]
